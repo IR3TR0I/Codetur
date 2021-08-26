@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WRZ7QZ52Hmnw5MaDmPiaXmlToob+gCWpPfpVyVDGG43RPEUKSIj0Lei4K2DaNXZcic+5+t6RXMBY0BXPt2M9Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moniq\\Desktop\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moniq\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
